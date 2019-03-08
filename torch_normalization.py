@@ -1,5 +1,4 @@
 import torch
-import torch.nn as nn
 X = torch.tensor(([4, 877], [8, 666], [3, 6]), dtype=torch.float) # 3 X 2 tensor
 print("Tensor X:",X)
 print()
